@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeylo Tangaro</h1>
+<h1 align="center">Hi 👋, I'm Jeylo Tangaro Baoit</h1>
 <h3 align="center">learning new skills and this cuz I'm not that pro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightcode101&label=Profile%20views&color=b41e0e&style=plastic" alt="nightcode101" /> </p>
