@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeylo Tangaro Baoit</h1>
 <h3 align="center">learning new skills and this cuz I'm not that pro</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightcode101&label=Profile%20views&color=green&style=flat" alt="nightcode101" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightcode101&label=Profile%20views&color=green&style=flat&abbreviated=true" alt="nightcode101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub?username=nightcode101" alt="nightcode101" /></a> </p>
 
