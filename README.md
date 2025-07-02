@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/jeylo.tangro" target="_blank">
+  <a href="https://fb.com/jeylo.tangaro" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-         alt="Facebook: jeylo.tangro"
+         alt="Facebook: jeylo.tangaro"
          height="33" width="40" />
   </a>
   <a href="mailto:baoitjerialle01@gmail.com" target="_blank" style="margin-left: 10px;">
